@@ -9,7 +9,7 @@ Image that is extract by hand.
 
 ### Class
 
-[Wiki](../../wiki)
+[Wiki](https://github.com/nptr/msstyleEditor/wiki/Introduction)
 
 ### To Do
 
